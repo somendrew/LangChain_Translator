@@ -15,6 +15,6 @@ Created an end to end application to Translate any thing from any language
 * Server
 * Playground
 
-<img src="images/SS2.png" alt="LangChain PlayGround" width="300" />
-![Alt text](images/SS2.png)
+<img src="images/SS2.png" alt="LangChain PlayGround" width="600" />
+
 
